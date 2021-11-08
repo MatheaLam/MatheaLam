@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me linkedin.com/thiendi
+- 📫 How to reach me linkedin.com/in/thiendi
 
 <!---
 MatheaLam/MatheaLam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
